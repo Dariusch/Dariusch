@@ -1,11 +1,11 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  schedule: 
+  schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
-  push: 
-    branches: 
+  push:
+    branches:
      - main
 jobs:
   github-metrics:
@@ -29,6 +29,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, java
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
