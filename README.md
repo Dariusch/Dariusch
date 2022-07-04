@@ -22,14 +22,14 @@ I am a big fan of [GitHub](https://github.com/) and [GitHub Actions](https://git
 
 ### Languages & Frameworks
 
-I am a Senior in Ruby and Ruby on Rails. Although I have some experience in Python and Go, I would not consider my skills good enough for a senior position. I am **not** a big fan of Java and the JavaScript ecosystem.
+I am a Senior in Ruby and Ruby on Rails and have some experience in Python and Go. I am **not** a big fan of Java and the JavaScript ecosystem.
 For most of the time, I used to create RESTful APIs until I came across [Protocol Buffers](https://developers.google.com/protocol-buffers) and [gRPC](https://grpc.io/), both technologies are great and you should try them out! Also, I'm eager to check out [connect.build](https://connect.build/) in the future, and get some more experience using Go.
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Cloud & Infrastructure
 
-I have some experience in [AWS](https://aws.amazon.com/), but I will always choose [Google Cloud](https://cloud.google.com/) in a heartbeat! I provision my infrastructure via [Terraform](https://www.terraform.io/), it is part of my daily work since v0.12. I managed a fair amount of mostly managed Kubernetes clusters throughout my career, so creating and maintaining [Helm](https://helm.sh/)-charts was/is daily business. My preferred way of applying those is via [Flux](https://fluxcd.io/) and [Flagger](https://flagger.app/).
+I have some experience in [AWS](https://aws.amazon.com/), but I will always choose [Google Cloud](https://cloud.google.com/) in a heartbeat! I provision my infrastructure via [Terraform](https://www.terraform.io/), it is part of my daily work since [v0.12](https://github.com/hashicorp/terraform/tree/v0.12.0). I managed a fair amount of mostly managed Kubernetes clusters throughout my career, so creating and maintaining [Helm](https://helm.sh/)-charts was/is daily business. My preferred way of applying those is via [Flux](https://fluxcd.io/) and [Flagger](https://flagger.app/).
 For monitoring, I love to use [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/), preferably via the [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator). Exporting Metrics, Logs and Traces to [Grafana Cloud](https://grafana.com/products/cloud/) via the [Grafana Agent](https://grafana.com/docs/grafana-cloud/agent/) is also great.
 I used to maintain an [Istio](https://istio.io/) service mesh but I would always choose [linkerd2](https://linkerd.io/) for its simplicity.
 
